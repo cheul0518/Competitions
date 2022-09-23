@@ -14,4 +14,4 @@ What shoulda have been better?
   - Classify first and segment
   - Manual coding instead of presetup program
   - fp16 proper use
-  - 
+  - multiple gpu
