@@ -18,3 +18,4 @@ What shoulda have been better?
   - fp16 proper use
   - multiple gpu training
   - wandb
+  - Showcase validation images 
