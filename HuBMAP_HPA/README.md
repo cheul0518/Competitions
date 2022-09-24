@@ -1,5 +1,7 @@
 Goal:
 
+EDA(exploratory data analysis)
+
 model
   - List used models
   - Showcase the main model and its architecture (diagram)
@@ -14,4 +16,5 @@ What shoulda have been better?
   - Classify first and segment
   - Manual coding instead of presetup program
   - fp16 proper use
-  - multiple gpu
+  - multiple gpu training
+  - wandb
