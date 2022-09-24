@@ -3,17 +3,19 @@ Goal:
 EDA(exploratory data analysis)
 
 My solution 35th
-  model
+
+  -model
     - List used models
     - Showcase the main model and its architecture (diagram)
       - Modification how?
 
-  Problems encountered
+
+  -Problems encountered
     - domain difference(shift)
     - predicticing lung
     - How to deal with the issues?
 
-  What shoulda have been better?
+  -What shoulda have been better?
     - Classify first and segment
     - Manual coding instead of presetup program
     - fp16 proper use
@@ -22,3 +24,4 @@ My solution 35th
     - Showcase validation images 
  
 List top 10 solution that I gotta learn
+swa
